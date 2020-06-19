@@ -1,0 +1,26 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "Nice todo list",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AksimO/testtodo.git"
+  },
+  "author": "rumbalacode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AksimO/testtodo/issues"
+  },
+  "homepage": "https://github.com/AksimO/testtodo#readme",
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "typescript": "^3.9.5"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
